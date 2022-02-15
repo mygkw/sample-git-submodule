@@ -1,0 +1,3 @@
+[submodule "spmt"]
+	path = spmt
+	url = git@github.com:mygkw/sample-pr-multiple-template.git
